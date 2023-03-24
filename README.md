@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayed Tahsinoor Rahman</h1>
-<h3 align="center">A enthusiast Problem solver from Chittagong, Bangladesh</h3>
+<h3 align="center">A Enthusiast Problem Solver from Chittagong, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedtahsin&label=Profile%20views&color=0e75b6&style=plastic" alt="sayedtahsin" /> </p>
 
