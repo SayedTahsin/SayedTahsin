@@ -1,11 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sayed Tahsinoor Rahman</h1>
-<h3 align="center">A enthusiast Problem solver from Chittagong, Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Sayed_Tahsinoor_Rahman!)](https://git.io/typing-svg)
+<h3 align="center">A passionate problem solver and competitive programmer from Bangladesh.</h3>
 
+<a href="https://codeforces.com/profile/Blackbeard99">
+    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/Blackbeard99"/>
+</a>
+<a href="https://leetcode.com/Sayed_Tahsin/">
+    <img alt="Leetcode" src="https://cp-logo.vercel.app/leetcode/Sayed_Tahsin"/>
+</a>
+<a href="https://www.codechef.com/users/sayed_tahsin">
+    <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/sayed_tahsin"/>
+</a>
+<a href="https://atcoder.jp/users/Blackbeard">
+    <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/Blackbeard"/>
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedtahsin&label=Profile%20views&color=0e75b6&style=plastic" alt="sayedtahsin" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **mail.tahsin99@gmail.com**
+- 🌱 I’m currently learning **Flutter, Git**
+
+- 📫 How to reach me: email me at **mail.tahsin99@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +37,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedtahsin&show_icons=true&locale=en&layout=compact" alt="sayedtahsin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedtahsin&" alt="sayedtahsin" /></p>
+
