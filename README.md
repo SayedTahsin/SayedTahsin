@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Sayed_Tahsinoor_Rahman!)](https://git.io/typing-svg)
-<h2 align="Left">An enthusiast problem solver and competitive programmer from Chittagong, Bangladesh.</h2>
+<h2 align="Left">An enthusiast problem solver and competitive programmer \nfrom Chittagong, Bangladesh.</h2>
 
 <a href="https://codeforces.com/profile/Blackbeard99">
     <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/Blackbeard99"/>
