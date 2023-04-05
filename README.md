@@ -30,7 +30,6 @@
 <a href="https://codeforces.com/profile/blackbeard99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="blackbeard99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sayed_tahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayed_tahsin" height="30" width="40" /></a>
 </p>
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SayedTahsin&show_icons=true&theme=bear" width = 350>
   <img src = "https://streak-stats.demolab.com?user=SayedTahsin&theme=dark" width = 370>
