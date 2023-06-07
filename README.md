@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedtahsin&label=Profile%20views&color=0e75b6&style=plastic" alt="sayedtahsin" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter, Git**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me: email me at **mail.tahsin99@gmail.com**
 
