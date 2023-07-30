@@ -2,7 +2,7 @@
 <h2 align="Left">An enthusiast problem solver and competitive programmer <br> from Chittagong, Bangladesh.</h2>
 
 <a href="https://codeforces.com/profile/Blackbeard99">
-    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/"/>
+    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/Blackbeard99"/>
 </a>
 <a href="https://leetcode.com/Sayed_Tahsin/">
     <img alt="Leetcode" src="https://cp-logo.vercel.app/leetcode/Sayed_Tahsin"/>
