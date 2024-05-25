@@ -45,6 +45,21 @@ A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 <!-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  -->
 <!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
 
+<!-- ### Learning 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetics](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+-->
+
+
+### ⏱️ Competitive Programming
+
+<a href="https://leetcode.com/u/Sayed_Tahsin/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+<a href="https://codeforces.com/profile/Blackbeard99">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
+<a href="https://www.codechef.com/users/sayed_tahsin">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white) </a>
+<a href="https://atcoder.jp/users/Blackbeard">![](https://img.shields.io/badge/-AtCoder-black?style=for-the-badge&logo=addthis&logoColor=white) </a>
+<a href="https://lightoj.com/user/blackbeard">![](https://img.shields.io/badge/-LightOJ-blue?style=for-the-badge&logo=addthis&logoColor=white) </a>
+
 ### 📈 GitHub Stats:
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SayedTahsin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" width="340" >
