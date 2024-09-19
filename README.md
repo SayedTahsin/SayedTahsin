@@ -1,8 +1,8 @@
 # Hi there 👋 I am Sayed Tahsin!
 A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 - 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
-- 🌱 I’m currently learning Express
-- 💬 Ask me about Javascript, Typescript, Vue, Nuxt, Flutter
+- 🌱 I’m currently learning React.js, Next.js
+- 💬 Ask me about JS, TS, Node, Vue, Nuxt, Flutter
 - 📫 How to reach me: email me at mail.tahsin99@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SayedTahsin&label=Profile%20views&color=brightgreen&style=flat" alt="naimulcsx" />  <a href="https://github.com/SayedTahsin"><img src="https://img.shields.io/github/followers/SayedTahsin?style=social" /></a> </p>
@@ -33,6 +33,7 @@ A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -40,13 +41,11 @@ A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) --> 
 <!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
-<!-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) --> 
 <!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) --> 
 <!-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  -->
 
 <!-- ### Learning 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetics](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 -->
 
