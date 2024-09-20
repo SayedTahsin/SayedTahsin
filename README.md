@@ -2,7 +2,7 @@
 A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 - 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
 - 🌱 I’m currently learning React.js, Next.js
-- 💬 Ask me about JS, TS, Node, Vue, Nuxt, Flutter
+- 💬 Ask me about JS, TS, Node, Vue
 - 📫 How to reach me: email me at mail.tahsin99@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SayedTahsin&label=Profile%20views&color=brightgreen&style=flat" alt="naimulcsx" />  <a href="https://github.com/SayedTahsin"><img src="https://img.shields.io/github/followers/SayedTahsin?style=social" /></a> </p>
