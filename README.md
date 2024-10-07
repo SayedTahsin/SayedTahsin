@@ -1,7 +1,7 @@
 # Hi there 👋 I am Sayed Tahsin!
 A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 - 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
-- 🌱 I’m currently learning React.js, Next.js
+- 🌱 I’m currently learning Hono
 - 💬 Ask me about JS, TS, Node, Vue
 - 📫 How to reach me: email me at mail.tahsin99@gmail.com
 
