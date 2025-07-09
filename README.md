@@ -1,5 +1,4 @@
-# Hi there 👋 I am Sayed Tahsin!
-A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
+### A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 - 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
 - 🌱 I’m currently learning Go
 - 💬 Ask me about JS, TS, Node, Vue
