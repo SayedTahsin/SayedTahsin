@@ -1,11 +1,16 @@
 # Hi there 👋 I am Sayed Tahsin!
 A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 - 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
-- 🌱 I’m currently learning Nest.js
+- 🌱 I’m currently learning Go
 - 💬 Ask me about JS, TS, Node, Vue
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SayedTahsin&label=Profile%20views&color=brightgreen&style=flat" alt="sayedTahsin" />  <a href="https://github.com/SayedTahsin"><img src="https://img.shields.io/github/followers/SayedTahsin?style=social" /></a> </p>
+<p> 
+<img src="https://komarev.com/ghpvc/?username=SayedTahsin&label=Profile%20views&color=brightgreen&style=flat" alt="sayedTahsin" />
+<a href="https://github.com/SayedTahsin">
+<img src="https://img.shields.io/github/followers/SayedTahsin?style=social" />
+</a>
+</p>
 
-### 📝 Languages
+<!-- ### 📝 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +31,7 @@ A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  -->
 
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) --> 
 <!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
@@ -39,7 +44,7 @@ A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 -->
 
 
-### ⏱️ Competitive Programming
+<!-- ### ⏱️ Competitive Programming
 
 <a href="https://leetcode.com/u/Sayed_Tahsin/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
 <a href="https://codeforces.com/profile/Blackbeard99">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
@@ -50,4 +55,4 @@ A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SayedTahsin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" width="340" >
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=SayedTahsin&theme=vue-dark&hide_border=false" width="360" >
-</p>
+</p> -->
