@@ -1,57 +1,58 @@
-### A Software Engineer and Problem Solver, from Chittagong, Bangladesh.
-- 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
-- 🌱 I’m currently learning Go
-- 💬 Ask me about JS, TS, Node, Vue
-<p> 
-<img src="https://komarev.com/ghpvc/?username=SayedTahsin&label=Profile%20views&color=brightgreen&style=flat" alt="sayedTahsin" />
-<a href="https://github.com/SayedTahsin">
-<img src="https://img.shields.io/github/followers/SayedTahsin?style=social" />
+## Sayed Tahsin | Software Engineer @AppsCode
+
+**💻 Full-Stack Developer crafting fast, clean & scalable solutions with modern TypeScript tooling**.
+I’m a passionate full-stack developer with a strong foundation in TypeScript, JavaScript, and Node.js. I enjoy building well-structured, efficient applications—ranging from intuitive frontend interfaces to scalable backend systems. With hands-on experience in SSR, SPAs, UI tooling, and full-stack workflows, I focus on writing clean, maintainable code to solve real-world problems. Currently deepening my backend expertise, I’m always exploring new technologies to grow as a true engineer.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SayedTahsin&label=Visitors&color=brightgreen&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/SayedTahsin?label=Followers&style=flat" alt="github-followers" />
+  <img src="https://img.shields.io/github/stars/SayedTahsin?label=Stars&style=flat&color=orange" alt="github-stars" />
+<a href="https://sayed-tahsin.pages.dev" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-visit-blueviolet?style=flat" alt="portfolio-link" />
 </a>
+<a href="https://drive.google.com/file/d/1oQlKcZVkqeMIE06XjPLVFmKRb7Cvb7yu/view" target="_blank">
+  <img src="https://img.shields.io/badge/📄 Resume-View-green?style=flat" alt="cv-link" />
+</a>
+
 </p>
 
-<!-- ### 📝 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 💻 Technologies
-![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  -->
-
-<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) --> 
-<!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
-<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) --> 
-<!-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  -->
-
-<!-- ### Learning 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetics](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
--->
 
 
-<!-- ### ⏱️ Competitive Programming
+#### Connect with Me: [🐦 Twitter](https://twitter.com/Sayed_Tahsin) | [📫 Email](mailto:sayed.tahsin99@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/sayedtahsin/)
 
-<a href="https://leetcode.com/u/Sayed_Tahsin/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
-<a href="https://codeforces.com/profile/Blackbeard99">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
-<a href="https://www.codechef.com/users/sayed_tahsin">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white) </a>
-<a href="https://atcoder.jp/users/Blackbeard">![](https://img.shields.io/badge/-AtCoder-black?style=for-the-badge&logo=addthis&logoColor=white) </a>
 
-### 📈 GitHub Stats:
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SayedTahsin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" width="340" >
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=SayedTahsin&theme=vue-dark&hide_border=false" width="360" >
-</p> -->
+### 🛠 Tech Stack
+
+**Languages**: TypeScript, JavaScript, C, C++, Dart  
+**Backend**: Node.js, Hono, Express.js, tRPC, Drizzle ORM  
+**Frontend**: Vue.js, Nuxt.js, React, Vite, Tailwind CSS  
+**Mobile/Desktop**: Flutter  
+**Auth & Data**: Firebase, Supabase, better-auth, MongoDB, SQLite, D1  
+**Infra**: Docker, Cloudflare Workers & Pages, Linux, Git, GitHub Actions  
+
+
+### 🌱 Current Focus
+
+- Deepening knowledge in **TypeScript**
+- Exploring **Nest.js**
+- Embracing backend-heavy and performance-critical challenges
+
+
+### 🎯 Competitive Programming Profiles:  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Blackbeard99)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/sayed_tahsin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sayed_Tahsin/)
+[![AtCoder](https://img.shields.io/badge/AtCoder-1f8acb?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Blackbeard)
+
+
+
+### 📈 GitHub Insights
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SayedTahsin&theme=github_dark" width="30%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SayedTahsin&theme=github_dark" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayedTahsin&theme=github_dark" width="60%" />
+</p>
+
+
+> ✨ Always open to learning, collaboration, and meaningful side projects.
