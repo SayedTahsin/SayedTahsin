@@ -18,7 +18,7 @@ I’m a passionate full-stack developer with a strong foundation in TypeScript, 
 
 
 
-#### Connect with Me: [🐦 Twitter](https://twitter.com/Sayed_Tahsin) | [📫 Email](mailto:sayed.tahsin99@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/sayedtahsin/)
+#### Connect with Me: [🐦 Twitter](https://twitter.com/SayedTahsin561) | [📫 Email](mailto:sayed.tahsin99@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/sayedtahsin/)
 
 
 ### 🛠 Tech Stack
