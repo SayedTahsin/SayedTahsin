@@ -15,7 +15,7 @@ Always learning. Always building.
 <a href="https://sayed-tahsin.pages.dev" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Portfolio-visit-blueviolet?style=flat" alt="portfolio-link" />
 </a>
-<a href="https://drive.google.com/file/d/1oQlKcZVkqeMIE06XjPLVFmKRb7Cvb7yu/view" target="_blank">
+<a href="https://www.canva.com/design/DAGCCXIz0ok/ccXBI6rckOQTgfiB_bMlQA/view?utm_content=DAGCCXIz0ok&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc57774dddc" target="_blank">
   <img src="https://img.shields.io/badge/📄 Resume-View-green?style=flat" alt="cv-link" />
 </a>
 
