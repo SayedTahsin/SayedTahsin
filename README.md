@@ -1,7 +1,9 @@
-## Sayed Tahsin | Software Engineer @AppsCode
+## Sayed Tahsin | Software Engineer @Delineate
 
-**💻 Full-Stack Developer crafting fast, clean & scalable solutions with modern TypeScript tooling**.
-I’m a passionate full-stack developer with a strong foundation in TypeScript, JavaScript, and Node.js. I enjoy building well-structured, efficient applications—ranging from intuitive frontend interfaces to scalable backend systems. With hands-on experience in SSR, SPAs, UI tooling, and full-stack workflows, I focus on writing clean, maintainable code to solve real-world problems. Currently deepening my backend expertise, I’m always exploring new technologies to grow as a true engineer.
+💻 Full-Stack Developer building fast, clean & scalable solutions with modern TypeScript and Python tooling
+I’m a passionate full-stack developer with a strong foundation in TypeScript, JavaScript and Python. I love crafting well-structured, efficient applications—from intuitive frontend interfaces to robust, scalable backend systems. With hands-on experience in SSR, SPAs, UI tooling, and full-stack workflows, I focus on writing clean, maintainable code that solves real-world problems.
+
+Recently, I’ve been expanding my backend expertise with Python and integrating AI-driven features into platforms—leveraging modern AI tools, APIs, and model workflows. Always exploring new technologies, I’m continuously evolving to grow as a complete engineer.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SayedTahsin&label=Visitors&color=brightgreen&style=flat" alt="profile-views" />
@@ -23,18 +25,17 @@ I’m a passionate full-stack developer with a strong foundation in TypeScript, 
 
 ### 🛠 Tech Stack
 
-**Languages**: TypeScript, JavaScript, C, C++, Dart  
-**Backend**: Node.js, Hono, Express.js, tRPC, Drizzle ORM  
-**Frontend**: Vue.js, Nuxt.js, React, Vite, Tailwind CSS  
+**Languages**: TypeScript, JavaScript, Python, C, C++, Dart  
+**Backend**: Node.js, Express.js, Hono, Nest.js, Rest, tRPC, Drizzle ORM, TypeORM  
+**Frontend**: Vue.js, Nuxt.js, React, Next.js, Vite, Tailwind CSS
 **Mobile/Desktop**: Flutter  
-**Auth & Data**: Firebase, Supabase, better-auth, MongoDB, SQLite, D1  
-**Infra**: Docker, Cloudflare Workers & Pages, Linux, Git, GitHub Actions  
+**Auth & Data**: Firebase, Supabase, better-auth, MongoDB, Postgres, SQLite, D1  
 
 
 ### 🌱 Current Focus
 
-- Deepening knowledge in **TypeScript**
-- Exploring **Nest.js**
+- Deepening knowledge in **Python**
+- Exploring **FastAPI**
 - Embracing backend-heavy and performance-critical challenges
 
 
