@@ -1,10 +1,12 @@
 ## Sayed Tahsin | Software Engineer @Delineate
 
-💻 Full-Stack Software Engineer building fast, clean & scalable solutions with modern TypeScript and Python tooling
+💻 Full-Stack Software Engineer — building fast, clean & scalable systems using TypeScript and Python
 
-I’m a passionate full-stack developer with a strong foundation in TypeScript and Python. I love crafting well-structured, efficient applications—from intuitive frontend interfaces to robust, scalable backend systems. With hands-on experience in SSR, SPAs, UI tooling, and full-stack workflows, I focus on writing clean, maintainable code that solves real-world problems.
+I’m a full-stack developer who loves building efficient applications across the stack—clean UIs, robust APIs, and scalable backend architectures. My core tools include TypeScript, Node.js, Python, and modern frameworks for SSR, SPAs, and full-stack workflows.
 
-Recently, I’ve been expanding my backend expertise with Python and integrating AI-driven features into platforms—leveraging modern AI tools, APIs, and model workflows. Always exploring new technologies, I’m continuously evolving to grow as a complete engineer.
+I’m constantly improving my engineering craft through learning, experimenting, and shipping real projects. Recently, I’ve been extending my backend skillset with Python ecosystems, and integrating AI-powered features using modern APIs, embeddings, and model-driven workflows.
+
+Always learning. Always building.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SayedTahsin&label=Visitors&color=brightgreen&style=flat" alt="profile-views" />
@@ -26,10 +28,10 @@ Recently, I’ve been expanding my backend expertise with Python and integrating
 
 ### 🛠 Tech Stack
 
-**Languages**: TypeScript, JavaScript, Python, C, C++, Dart  
-**Backend**: Node.js, Express.js, Hono, Nest.js, Rest, tRPC, DrizzleORM, TypeORM  
-**Frontend**: Vue.js, Nuxt.js, React, Next.js, Vite, Tailwind CSS
-**Mobile/Desktop**: Flutter  
+**Languages**: TypeScript, JavaScript, Python, C, C++, Dart
+**Backend**: Node.js, Express, Hono, NestJS, FastAPI, RestAPI, tRPC, DrizzleORM, TypeORM  
+**Frontend**: Vue.js, Nuxt.js, React, Next.js, Vite, TailwindCSS
+**Mobile/Desktop**: Flutter, Qt
 **Auth & Data**: Firebase, Supabase, better-auth, MongoDB, Postgres, SQLite, D1  
 
 
